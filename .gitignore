@@ -1,0 +1,12 @@
+bin
+.idea
+apphost.exe
+rider.project.model.nuget.info
+rider.project.restore.info
+APIGateway.AssemblyInfoInputs.cache
+APIGateway.AssemblyInfo.cs
+APIGateway.dll
+APIGateway.dll
+APIGateway.dll
+APIGateway.pdb
+APIGateway.sourcelink.json
