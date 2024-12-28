@@ -15,7 +15,7 @@ APIGateway/
 │   ├── appsettings.Development.json   # Настройки для режима разработки
 │   ├── launchSettings.json            # Настройки запуска приложения
 │   └── ocelot.json                    # Конфигурация Ocelot для маршрутизации
-├── Program.cs                         # Точка входа в приложение
+└── Program.cs                         # Точка входа в приложение
 ```
 
 ---

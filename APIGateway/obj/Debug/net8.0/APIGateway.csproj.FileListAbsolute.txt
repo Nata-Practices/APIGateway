@@ -42,3 +42,12 @@ D:\dev\Nata\APIGateway\APIGateway\obj\Debug\net8.0\ref\APIGateway.dll
 D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\Properties\appsettings.Development.json
 D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\Properties\appsettings.json
 D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\Properties\ocelot.json
+D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dev\Nata\APIGateway\APIGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dev\Nata\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway.sourcelink.json
